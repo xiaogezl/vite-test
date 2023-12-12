@@ -14,6 +14,6 @@ module.exports = {
   },
   rules: {
     // 这里可以添加自定义的规则
-    semi: [1, 'never'],
+    semi: [2, 'never'],
   }
 }
